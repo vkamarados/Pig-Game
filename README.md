@@ -13,5 +13,5 @@ If a player chooses to "hold", their turn total is added to their score, and it 
 
 The first player to score 100 or more points wins. 
 
-Enjoy :) 
+Enjoy :)   
 https://vkamarados.github.io/Pig-Game/
